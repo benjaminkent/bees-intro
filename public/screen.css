@@ -39,6 +39,16 @@ p {
   margin: 2rem;
 }
 
+footer {
+  background-color: #c3f7cf;
+}
+
+footer p {
+  text-align: center;
+  padding: 3rem 0 2rem 0;
+  margin: 0;
+}
+
 .cactus-image {
   height: 25rem;
   margin: 0 auto;
